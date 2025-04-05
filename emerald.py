@@ -30,6 +30,8 @@ from       datetime        import datetime
 
 init()  
 
+import webbrowser
+webbrowser.open('https://discord.gg/SWJbfG9ETj')
 
 def rn(x):
     now = datetime.now()
